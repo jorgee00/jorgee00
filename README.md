@@ -40,9 +40,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jorge-rios-marfil-44a791219/">
-  Linkedin
+  <img src="https://camo.githubusercontent.com/8396d165b44e576ab12f7873eee1745c0c11ccaa22a59777d5b2f4789f6ef21a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3963333864313f7374796c653d666c6174266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/Linkedin-9c38d1?style=flat&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;">
 </a>
-<a href="mailto:jorge.rios.marfil@gmail.com">Gmail</a>
+<a href="mailto:jorge.rios.marfil@gmail.com"><img src="https://camo.githubusercontent.com/693067ed6a2f00644d3271edc0da63a154bbf9634d9008fdcdbe32f6220e6b2b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61696c312d3963333864313f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" alt="Mail Badge" data-canonical-src="https://img.shields.io/badge/Mail1-9c38d1?style=flat&amp;logo=Gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
 -----
