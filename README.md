@@ -39,11 +39,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jorge-rios-marfil-44a791219/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jorge.rios.marfil@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jorge-rios-marfil-44a791219/">
+  Linkedin
+</a>
+<a href="mailto:jorge.rios.marfil@gmail.com">Gmail</a>
 </p>
 
 -----
 Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
